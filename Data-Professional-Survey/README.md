@@ -61,7 +61,6 @@ A collection of Power BI dashboards and analytics projects showcasing data visua
 - [View Project Folder](./Sales-Analysis)
 
 ---
-
 ## 📬 Contact
 **Vijaya Tarani**  
 [LinkedIn](www.linkedin.com/in/

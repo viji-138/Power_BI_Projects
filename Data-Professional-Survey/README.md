@@ -25,11 +25,6 @@ A collection of Power BI dashboards and analytics projects showcasing data visua
 
 ---
 
-### **2. Sales Analysis Dashboard**
-![Dashboard Screenshot](Sales-Analysis/dashboard.png)
-- **Goal:** Visualize sales trends, revenue performance, and customer behavior.
-- **Key Insights:** Monthly revenue trends, top-selling products, and regional sales performance.
-- [View Project Folder](./Sales-Analysis)
 
 ---
 
@@ -54,11 +49,6 @@ A collection of Power BI dashboards and analytics projects showcasing data visua
 
 ---
 
-### **2. Sales Analysis Dashboard**
-![Dashboard Screenshot](Sales-Analysis/dashboard.png)
-- **Goal:** Visualize sales trends, revenue performance, and customer behavior.
-- **Key Insights:** Monthly revenue trends, top-selling products, and regional sales performance.
-- [View Project Folder](./Sales-Analysis)
 
 ---
 ## 📬 Contact

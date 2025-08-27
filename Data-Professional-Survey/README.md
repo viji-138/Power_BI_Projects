@@ -27,30 +27,6 @@ A collection of Power BI dashboards and analytics projects showcasing data visua
 
 
 ---
-
-## 📬 Contact
-
----
-
-## 🛠 Tech Stack
-- **Power BI** – Data visualization & dashboards
-- **Excel** – Data cleaning & preprocessing
-- **SQL** – Data extraction & queries
-
----
-
-## 📊 Projects Overview
-
-### **1. Data Professional Survey Dashboard**
-![Dashboard Screenshot](Data-Professional-Survey/dashboard.png)
-- **Goal:** Analyze survey data to understand job roles, salaries, and work preferences.
-- **Key Insights:** Average salary by role, country distribution, tools used, and career satisfaction.
-- [View Project Folder](./Data-Professional-Survey)
-
----
-
-
----
 ## 📬 Contact
 **Vijaya Tarani**  
 [LinkedIn](www.linkedin.com/in/
